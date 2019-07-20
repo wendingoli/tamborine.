@@ -38,21 +38,31 @@ class App extends React.Component {
           <div class="tambo-nav">
             <Navigation />
           </div>
-          {/* FORM */}
+          {/* FORM 
+            get values from form using:
+            var nameValue = document.getElementById("productName").value;
+          */}
           <div class="tambo-form">
             <h4>add item.</h4>
             <form action="/action_page.php" method="get">
               <input
                 type="text"
                 name="productname"
+                id="productname"
                 placeholder="product name"
               />
               <br />
-              <input type="text" name="company" placeholder="company" />
+              <input
+                type="text"
+                name="company"
+                id="company"
+                placeholder="company"
+              />
               <br />
               <input
                 type="text"
                 name="ingredients"
+                id="ingredients"
                 placeholder="ingredients, separated by commas"
               />
               <br />
