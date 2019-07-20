@@ -1,0 +1,398 @@
+[
+ [
+   "Acetone",
+   0
+],
+ [
+   "Acetylated Lanolin",
+   8
+],
+ [
+   "Acetylated Lanolin Alcohol",
+   8
+],
+ [
+   "Algae Extract",
+   10
+],
+ [
+   "Algin",
+   8
+],
+ [
+   "Allantoin",
+   0
+],
+ [
+   "Almond Oil",
+   4
+],
+ [
+   "Aloe Vera",
+   0
+],
+ [
+   "Apricot Kernel Oil",
+   4
+],
+ [
+   "Ascorbic Acid",
+   0
+],
+ [
+   "Ascorbyl Palmitate",
+   4
+],
+ [
+   "Avocado Oil",
+   4
+],
+ [
+   "Benzoic Acid",
+   4
+],
+ [
+   "Beta Carotene",
+   2
+],
+ [
+   "Beeswax",
+   0
+],
+ [
+   "Butyl Stearate",
+   6
+],
+ [
+   "Butylene Glycol",
+   2
+],
+ [
+   "Calendula",
+   2
+],
+ [
+   "Camphor",
+   4
+],
+ [
+   "Candelilla Wax",
+   2
+],
+ [
+   "Capric Acid",
+   4
+],
+ [
+   "Caprylic Acid",
+   2
+],
+ [
+   "Carbomer",
+   0
+],
+ [
+   "Carnuba Wax",
+   2
+],
+ [
+   "Carrageenan",
+   10
+],
+ [
+   "Cetearyl Alcohol",
+   4
+],
+ [
+   "Cetyl Alcohol",
+   4
+],
+ [
+   "Cocoa Butter",
+   8
+],
+ [
+   "Coconut Butter",
+   8
+],
+ [
+   "Coconut Oil",
+   8
+],
+ [
+   "Colloidal Sulfur",
+   6
+],
+ [
+   "Corn Oil",
+   6
+],
+ [
+   "D&C Red # 17",
+   6
+],
+ [
+   "D&C Red # 19",
+   4
+],
+ [
+   "D&C Red # 21",
+   6
+],
+ [
+   "D&C Red # 3",
+   6
+],
+ [
+   "D&C Red # 4",
+   2
+],
+ [
+   "D&C Red # 6",
+   2
+],
+ [
+   "D&C Red # 7",
+   2
+],
+ [
+   "D&C Red # 9",
+   2
+],
+ [
+   "Dimethicone",
+   2
+],
+ [
+   "Dioctyl Succinate",
+   6
+],
+ [
+   "Emu Oil",
+   0
+],
+ [
+   "Ethylparaben",
+   0
+],
+ [
+   "Evening Primrose Oil",
+   4
+],
+ [
+   "Glyceryl Stearate NSE",
+   2
+],
+ [
+   "Glyceryl Stearate SE",
+   6
+],
+ [
+   "Isocetyl Stearate",
+   10
+],
+ [
+   "Isopropyl Alcohol",
+   0
+],
+ [
+   "Isopropyl Isostearate",
+   10
+],
+ [
+   "Isopropyl Myristate",
+   10
+],
+ [
+   "Isopropyl Palmitate",
+   8
+],
+ [
+   "Jojoba Oil",
+   4
+],
+ [
+   "Lanolin Alcohol",
+   4
+],
+ [
+   "Lanolin Oil",
+   2
+],
+ [
+   "Lanolin Wax",
+   2
+],
+ [
+   "Laureth 23",
+   6
+],
+ [
+   "Laureth 4",
+   10
+],
+ [
+   "Lauric Acid",
+   8
+],
+ [
+   "Lithiumm Stearate",
+   2
+],
+ [
+   "Magneseium Aluminum Silicate ",
+   0
+],
+ [
+   "Magnesium Stearate",
+   2
+],
+ [
+   "Myristic Acid",
+   6
+],
+ [
+   "Octyl Palmitate",
+   8
+],
+ [
+   "Octyl Stearate",
+   10
+],
+ [
+   "Oleth-3",
+   10
+],
+ [
+   "Oleth-10",
+   4
+],
+ [
+   "Olive Oil",
+   4
+],
+ [
+   "Papain",
+   0
+],
+ [
+   "Peanut Oil",
+   4
+],
+ [
+   "PEG 75 Lanolin",
+   6
+],
+ [
+   "PEG 100 Stearate",
+   2
+],
+ [
+   "PEG 16 Lanolin",
+   8
+],
+ [
+   "PEG 8 Stearate",
+   6
+],
+ [
+   "Palmitic Acid",
+   4
+],
+ [
+   "Propylparaben",
+   0
+],
+ [
+   "Polyethylene Glycol (PEG 400)",
+   2
+],
+ [
+   "Propylene Glycol Monostearate",
+   8
+],
+ [
+   "Red Algea",
+   10
+],
+ [
+   "Safflower Oil",
+   4
+],
+ [
+   "Simethicone",
+   2
+],
+ [
+   "Sodium Chloride",
+   10
+],
+ [
+   "Sodium Hyaluronate",
+   0
+],
+ [
+   "Sodium Laureth Sulfate",
+   6
+],
+ [
+   "Sodium Lauryl Sulfate",
+   10
+],
+ [
+   "Sodium PCA",
+   0
+],
+ [
+   "Soybean Oil",
+   6
+],
+ [
+   "Squalene",
+   2
+],
+ [
+   "Stearic Acid",
+   4
+],
+ [
+   "Stearyl Alcohol",
+   4
+],
+ [
+   "Sulfated Castor Oil",
+   6
+],
+ [
+   "Sulfated Jojoba Oil",
+   6
+],
+ [
+   "Sunflower Oil",
+   0
+],
+ [
+   "Syearyl Heptanoate",
+   8
+],
+ [
+   "Talc",
+   2
+],
+ [
+   "Tocopherol (Vitamin E)",
+   4
+],
+ [
+   "Vitamin A Palmitate",
+   4
+],
+ [
+   "Wheat Germ Oil",
+   10
+],
+ [
+   "Zinc Oxide",
+   2
+]
+]
