@@ -11,3 +11,42 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+#header {
+  text-align: center;
+}
+
+h1 {
+  margin-bottom: 0px;
+}
+#subheader {
+  font-weight: 100;
+  margin-top: 0;
+}
+
+li {
+}
+
+h1,
+h4 {
+  font-style: italic;
+}
+
+.container {
+  float: left;
+  display: flex;
+  width: 100%;
+}
+
+.tambo-nav {
+  width: 20%;
+  margin: 20px;
+  flex-direction: column;
+  /* background: blue; */
+}
+
+.tambo-form {
+  width: 70%;
+  margin: 20px auto;
+  /* background: green; */
+}
