@@ -4,6 +4,7 @@ import './index.css';
 import { Route, Link, BrowserRouter as Router } from 'react-router-dom'
 import App from './App';
 import Navigation from './components/navigation.js'
+import Cross from './components/Cross.js'
 import * as serviceWorker from './serviceWorker';
 
 const routing = (
@@ -11,6 +12,7 @@ const routing = (
         <div>
             <Route path="/" component={App} />
             <Route path="/navigation" component={Navigation} />
+            <Route path="/cross" component={Cross} />
         </div>
     </Router>
 )
