@@ -30,7 +30,7 @@ class Navigation extends React.Component {
     render () {
         return (
             <List>
-                <Link to="/navigation" />
+                <Link to="/navigation" >my items</Link>
                 <li>my items</li>
                 <li>add product</li>
                 <li>product lookup</li>
