@@ -14,6 +14,11 @@ const routing = (
       {/* <Route path="/" component={App} />
       <Route path="/navigation" component={Navigation} /> */}
 
+      <img className="plant-decoration" src="https://i.imgur.com/DwOotz3.png" />
+      <img
+        className="potted-plant-decoration"
+        src="https://i.imgur.com/wcO6zU2.png"
+      />
       <h1 id="header">tamborine.</h1>
       <h4 id="subheader">find out what works best for you</h4>
       <div class="container">

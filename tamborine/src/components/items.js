@@ -3,7 +3,7 @@ import styled from "styled-components";
 import { Link } from "react-router-dom";
 import i3 from "../img/3.jpg";
 
-const List = styled.ul`
+const List = styled.div`
   z-index: 10;
   list-style-type: none;
   margin: 0;
@@ -16,7 +16,7 @@ const List = styled.ul`
   & > .product {
     width: 200px;
     height: 200px;
-    background: red;
+    background: white;
 
     & > container {
       float: left;
@@ -39,20 +39,18 @@ const List = styled.ul`
 class Items extends React.Component {
   render() {
     return (
-      <List>
-        <div class="container myitems">
-          <div class="product">
-            {" "}
-            <img src={i3} />{" "}
-          </div>
-          <div class="product">
-            {" "}
-            <img src="https://www.sephora.com/productimages/sku/s2189389-main-zoom.jpg" />{" "}
-          </div>
-          <div class="product">
-            {" "}
-            <img src="https://www.sephora.com/productimages/sku/s2042794-main-Lhero.jpg" />{" "}
-          </div>
+      <List className="container myItems">
+        <div class="product">
+          {" "}
+          <img src={i3} />{" "}
+        </div>
+        <div class="product">
+          {" "}
+          <img src="https://www.sephora.com/productimages/sku/s2189389-main-zoom.jpg" />{" "}
+        </div>
+        <div class="product">
+          {" "}
+          <img src="https://www.sephora.com/productimages/sku/s2042794-main-Lhero.jpg" />{" "}
         </div>
       </List>
     );
