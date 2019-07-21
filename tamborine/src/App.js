@@ -24,53 +24,38 @@
 // export default App;
 import React from "react";
 import Navigation from "./components/navigation";
+<<<<<<< HEAD
 import Cross from "./components/Cross"
+=======
+import Items from "./components/items";
+import AddItem from "./components/additem";
+>>>>>>> 48cac51bba6489930b9e4ce10b9e5712faf023bb
 
 class App extends React.Component {
   render() {
     return (
-      <div>
-        <div id="header">
-          <h1>tamborine.</h1>
-          <h4 id="subheader">find out what works best for you</h4>
-        </div>
+      <div class="content">
+        {/* <h1 id="header">tamborine.</h1>
+        <h4 id="subheader">find out what works best for you</h4> */}
         <div class="container">
           {/* NAVBAR */}
-          <div class="tambo-nav">
+          {/* <div class="tambo-nav">
             <Navigation />
-          </div>
+          </div> */}
+
           {/* FORM 
             get values from form using:
             var nameValue = document.getElementById("productName").value;
           */}
-          <div class="tambo-form">
+          {/* <div class="tambo-form">
             <h4>add item.</h4>
-            <form action="/action_page.php" method="get">
-              <input
-                type="text"
-                name="productname"
-                id="productname"
-                placeholder="product name"
-              />
-              <br />
-              <input
-                type="text"
-                name="company"
-                id="company"
-                placeholder="company"
-              />
-              <br />
-              <input
-                type="text"
-                name="ingredients"
-                id="ingredients"
-                placeholder="ingredients, separated by commas"
-              />
-              <br />
-              <input type="submit" />
-            </form>
-          </div>
+            <AddItem />
+          </div> */}
         </div>
+
+        {/* <h4>my items.</h4>
+        <br />
+        <Items /> */}
       </div>
     );
   }

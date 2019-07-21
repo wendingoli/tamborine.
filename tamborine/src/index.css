@@ -6,6 +6,9 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+.content {
+  margin: 10%;
+}
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
@@ -14,17 +17,30 @@ code {
 
 #header {
   text-align: center;
-}
-
-h1 {
-  margin-bottom: 0px;
+  margin-bottom: 0;
 }
 #subheader {
+  text-align: center;
   font-weight: 100;
   margin-top: 0;
 }
 
 li {
+  width: 57px;
+  margin: 20px;
+  font-size: 16px;
+  font-weight: semi-bold;
+  overflow: visible;
+  list-style: none;
+  font-weight: 100;
+}
+a {
+  color: #333234;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #aa6da3;
 }
 
 h1,
@@ -32,10 +48,15 @@ h4 {
   font-style: italic;
 }
 
+h4 {
+  color: #656565;
+}
+
 .container {
   float: left;
   display: flex;
   width: 100%;
+  flex-wrap: wrap;
 }
 
 .tambo-nav {
@@ -49,4 +70,15 @@ h4 {
   width: 70%;
   margin: 20px auto;
   /* background: green; */
+}
+
+.myitems {
+  margin: 30 auto;
+}
+
+.product {
+  width: 200px;
+  height: 200px;
+  background: pink;
+  margin: 10px;
 }
