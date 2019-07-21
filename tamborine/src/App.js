@@ -24,6 +24,7 @@
 // export default App;
 import React from "react";
 import Navigation from "./components/navigation";
+import Cross from "./components/Cross"
 
 class App extends React.Component {
   render() {
